@@ -1,0 +1,30 @@
+[
+  {
+    "ticker": "MSFT",
+    "empresa": "Microsoft",
+    "dataCompra": "2026-03-01",
+    "quantidade": 20,
+    "precoCompra": 320.00
+  },
+  {
+    "ticker": "TSLA",
+    "empresa": "TESLA",
+    "dataCompra": "2026-03-20",
+    "quantidade": 50,
+    "precoCompra": 220.00
+  },
+  {
+    "ticker": "AAPL",
+    "empresa": "Apple",
+    "dataCompra": "2026-02-15",
+    "quantidade": 10,
+    "precoCompra": 380.00
+  },
+  {
+    "ticker": "AMZN",
+    "empresa": "Amazon",
+    "dataCompra": "2026-02-15",
+    "quantidade": 15,
+    "precoCompra": 250.00
+  }
+]

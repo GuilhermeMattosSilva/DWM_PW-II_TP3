@@ -1,0 +1,30 @@
+body {
+  background-color: #f0f4f8;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.table th {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.variacao-positiva {
+  color: #198754 !important;
+  font-weight: 600;
+}
+
+.variacao-negativa {
+  color: #dc3545 !important;
+  font-weight: 600;
+}
+
+.variacao-neutra {
+  color: #212529 !important;
+  font-weight: 600;
+}

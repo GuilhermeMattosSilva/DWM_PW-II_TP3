@@ -1,0 +1,25 @@
+# Claude Code
+.claude/
+
+# Dependências
+node_modules/
+
+# Build
+dist/
+out-tsc/
+
+# Angular cache
+.angular/
+
+# Ambiente e segredos (contém API Keys - nunca commitar)
+src/environments/environment.ts
+*.env
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
